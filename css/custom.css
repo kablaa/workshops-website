@@ -35,14 +35,18 @@ body {
     /* change bootstrap jumbotron text color */
     border-style: none;
     background-color: #000033;
-    color: #666;
+    color: #888;
 }
 
 .row{
-  color: #666
+  color: #888
 }
 .btn{
     border-color: #000;
     background-color: #806600;
     color: #000
+}
+
+.blog{
+  font-size: 20px;
 }
