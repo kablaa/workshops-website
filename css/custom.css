@@ -33,6 +33,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     /* change bootstrap jumbotron text color */
+    padding-top: 100px;
+    padding-left: 190px;
     border-style: none;
     background-color: #000033;
     color: #888;
@@ -50,4 +52,10 @@ body {
 
 .blog{
   font-size: 20px;
+
+}
+.whatever{
+  padding-right: 20px;
+  padding-bottom: 20px;
+  float:left;
 }
